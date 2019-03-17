@@ -1,11 +1,7 @@
 # Expense Management
-[Expense management](localhost/h/)
 
  **This website provides you to manage your expenses in an efficient way**
- '''javascript
-   alert("Best Expense Management System is here!!!")
- '''   
- 
+ *Start Savings Through Our Website* 
 ---
     ![web app]()
 
