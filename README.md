@@ -1,14 +1,14 @@
 # Expense Management
 
  **This website provides you to manage your expenses in an efficient way**
- *Start Savings Through Our Website* r
+ *Start Savings Through Our Website* 
 
  ```javascript
    alert("Best Expense Management System is here!!!")
  ```  
 
 ---
-    ![web app](game.gif)
+    ![web app](https://github.com/rockankityadav/expense-manager/blob/master/game.gif)
 
 ---
 ## Features
