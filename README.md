@@ -28,4 +28,4 @@
 ---
 
 # Note
- _This project was build at [Mumbai Hackathon](https://github.com/MumbaiHackathon/)
+ _This project was build at_ [Mumbai Hackathon](https://github.com/MumbaiHackathon/)
