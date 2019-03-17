@@ -8,7 +8,7 @@
  ```  
 
 ---
-    <a href="game.gif"></a>
+    ![web app](game.gif)
 
 ---
 ## Features
