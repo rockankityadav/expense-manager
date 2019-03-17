@@ -1,10 +1,14 @@
 # Expense Management
 
  **This website provides you to manage your expenses in an efficient way**
- 
- *Start Savings Through Our Website* 
+ *Start Savings Through Our Website* r
+
+ ```javascript
+   alert("Best Expense Management System is here!!!")
+ ```  
+
 ---
-    <img src="1.PNG">
+    <a href="game.gif"></a>
 
 ---
 ## Features
