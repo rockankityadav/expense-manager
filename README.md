@@ -8,7 +8,7 @@
  ```  
 
 ---
-    <a href="https://imgflip.com/gif/2w8oq5"><img src="https://i.imgflip.com/2w8oq5.gif" title="made at imgflip.com"/></a>
+    ![](https://user-images.githubusercontent.com/47393160/54486692-f5c9d080-4848-11e9-97f4-c783a0b9ec99.gif)
 
 ---
 ## Features
