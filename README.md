@@ -11,20 +11,20 @@
 
 ---
 ## Features
-    - Fast Analysis
-    - Fresh Report
-    - Manage old data
-    - Alert the user at the time of over expense
-    - Planning expense and total
+    1. Fast Analysis
+    2.Fresh Report
+    3. Manage old data
+    4. Alert the user at the time of over expense
+    5. Planning expense and total
 
 ---
 
 ## File Structure
 ### Web App
-    [Expense Management](https://github.com/rockankityadav/expense-manager)
+    [Expense management](github.com/rockankityadav/expense-manager)
 ### Chatbot
-    - audio or text input can be given and it can control all the functionalities
-    - build using _Dialog Flow_
+    1. audio or text input can be given and it can control all the functionalities
+    2. build using _Dialog Flow_
 ---
 
 # Note
