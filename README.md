@@ -8,7 +8,8 @@
  ```  
 
 ---
-    ![](https://user-images.githubusercontent.com/47393160/54486692-f5c9d080-4848-11e9-97f4-c783a0b9ec99.gif)
+
+![gamee](https://user-images.githubusercontent.com/47393160/54486717-59ec9480-4849-11e9-86e0-181342ef2b22.gif)
 
 ---
 ## Features
