@@ -21,7 +21,7 @@
 
 ## File Structure
 ### Web App
-     repository here [Expense Management](https://github.com/rockankityadav/expense-manager)
+    [Expense Management](https://github.com/rockankityadav/expense-manager)
 ### Chatbot
     - audio or text input can be given and it can control all the functionalities
     - build using _Dialog Flow_
