@@ -8,7 +8,7 @@
  ```  
 
 ---
-    ![web app](https://github.com/rockankityadav/expense-manager/blob/master/game.gif)
+    <a href="https://imgflip.com/gif/2w8oq5"><img src="https://i.imgflip.com/2w8oq5.gif" title="made at imgflip.com"/></a>
 
 ---
 ## Features
