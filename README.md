@@ -13,7 +13,7 @@
 ---
 ## Features
     1. Fast Analysis
-    2.Fresh Report
+    2. Fresh Report
     3. Manage old data
     4. Alert the user at the time of over expense
     5. Planning expense and total
