@@ -2,7 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/47393160/54487041-cff2fa80-484d-11e9-8159-8de11d63459a.PNG)
 
-
+---
 **This website provides you to manage your expenses in an efficient way**
  
  *Start Savings Through Our Website* 
